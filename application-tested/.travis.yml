@@ -8,7 +8,7 @@ script:
    - vendor/bin/phpunit
    
 notifications:
-    email:
+    email: true
         recipients:
             - jeremy.durand@epsi.fr
             - jeremy.durand2449@gmail.com
