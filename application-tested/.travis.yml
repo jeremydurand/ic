@@ -14,10 +14,4 @@ script:
     on_failure: always
     on_error: always
     on_cancel: always
-    
-    email:
-        recipients:
-            - jeremy.durand@epsi.fr
-            - jeremy.durand2449@gmail.com
-        on_success: always
-        on_failure: always
+
