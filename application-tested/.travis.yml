@@ -10,8 +10,3 @@ script:
  notifications:
     slack: 
     epsi-ic:Q5TUTkIv6U8rufTM3TFZk80J
-    on_success: always
-    on_failure: always
-    on_error: always
-    on_cancel: always
-
