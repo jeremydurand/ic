@@ -7,10 +7,5 @@ script:
    - composer install
    - vendor/bin/phpunit
    
-notifications:
-    email: true
-        recipients:
-            - jeremy.durand@epsi.fr
-            - jeremy.durand2449@gmail.com
-        on_success: always
-        on_failure: always
+ notifications:
+    slack: epsi-ic:Q5TUTkIv6U8rufTM3TFZk80J
