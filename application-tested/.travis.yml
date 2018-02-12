@@ -11,5 +11,6 @@ notifications:
     email:
         recipients:
             - jeremy.durand@epsi.fr
+            - jeremy.durand2449@gmail.com
         on_success: always
         on_failure: always

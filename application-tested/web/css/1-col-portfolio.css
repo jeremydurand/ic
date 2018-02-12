@@ -5,9 +5,9 @@
  */
 
 body {
-    padding-top: 80px; /*70 Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px; /*70 Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 footer {
-    margin: 60px 0; /*50*/
+    margin: 50px 0; /*50*/
 }
